@@ -4,3 +4,5 @@ $(document).ready(function() {
         $('.toggle_component').toggleClass('is-on');
     });
 });
+
+console.log("Hello there!");
