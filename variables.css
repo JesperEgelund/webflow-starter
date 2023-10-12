@@ -1,0 +1,14 @@
+body.dark-mode {
+--color--background-white: var(--dark--background-white);
+--color--background-dark: var(--dark--background-dark);
+--color--background-grey: var(--dark--background-grey);
+--color--text-default: var(--dark--text-default);
+--color--text-secondary: var(--dark--text-secondary);
+--color--text-white: var(--dark--text-white);
+--color--text-dark-grey: var(--dark--text-dark-grey);
+--color--border: var(--dark--border);
+--color--primary: var(--dark--primary);
+--color--secondary: var(--dark--secondary);
+--color--button-primary: var(--dark--button-primary);
+--color--accent: var(--dark--accent);
+}
